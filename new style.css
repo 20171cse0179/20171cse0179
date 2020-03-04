@@ -1,0 +1,29 @@
+p
+{
+color:blue;
+background-color:black;
+font-style:italic;
+font-family:georgia;
+font-size:20px;
+font-weight:10;
+letter-spacing:2px;
+word-spacing:10px;
+}
+h2{
+text-shadow:10px 5px 2px blue;
+}
+#new
+{
+color:black;
+font-style:italic;
+font-family:georgia;
+font-size:25px;
+font-weight:10;
+direction:rtl;
+}
+body
+{
+background-image:url("/home/6CSE3/Desktop/20171cse0179 DIGANTH V/pes.jpeg");
+background-repeat:repeat-x;
+background-attachment:scroll;
+}
